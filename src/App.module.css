@@ -54,9 +54,7 @@ button:active{
     }
 }
 @media (max-width: 420px){
-    .quo{
-        width: 100%;
-    }
+    
     .buttons{
         width: 100%;
         margin: 0;
