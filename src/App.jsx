@@ -19,7 +19,7 @@ function App() {
       if(cnt<5) cnt++;
       else cnt =0;
       setQuote(quotes[cnt].toUpperCase());
-    }, 30000);
+    }, 10000);
 
     return () => clearInterval(interval);
   }, []);
