@@ -54,14 +54,11 @@ button:active{
     }
 }
 @media (max-width: 420px){
-    .container{
-        width: 100vw;
-    }
     .quo{
         width: 100%;
     }
-    .button{
-        display: none;
+    .buttons{
+        width: 100%;
         margin: 0;
     }
 }
